@@ -1,0 +1,8 @@
+{
+  "files_found": 50,
+  "files_processed": 50,
+  "feature_dimensions": 62,
+  "errors": [],
+  "labels": "unavailable: all supplied WAVs are bronchitis; pneumonia and normal audio required for classification",
+  "classification_accuracy": null
+}
